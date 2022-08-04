@@ -1,4 +1,14 @@
 .Card{
-    border: 3px solid white;
+    border: 3px solid blue;
 
+}
+
+.Card .Conteudo{
+    color: white;
+    background-color: green;
+}
+
+.Card .Footer{
+    color: green;
+    background-color: yellow;
 }

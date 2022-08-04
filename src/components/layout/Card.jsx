@@ -14,4 +14,4 @@ export default function FuncaoCard(props){
     )
 }
 
-//REMEBER: ALWAYS, I said ALWAYS, start the name of the function with uppercase letter
+//REMEBER: ALWAYS, I said ALWAYS, start the name of the function with capital letter
